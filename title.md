@@ -1,5 +1,5 @@
 
-![](figs/sr-fig1.jpg)
+![](figs/sr-fig1.png)
 
 # Abstract
 
